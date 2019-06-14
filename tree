@@ -1,6 +1,7 @@
 Binary tree resolution from 'ermlab'
 	
-master (root)                                        _____________________________________                 
+master (root)                                       
+_____________________________________                 
    /     	\          |
 0.1	2.0(leaf)	3.0(leaf)
    |	
